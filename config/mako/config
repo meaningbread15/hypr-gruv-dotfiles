@@ -1,0 +1,9 @@
+background-color=#1d2021
+text-color=#ebdbb2
+border-color=#928374
+border-size=2
+padding=10
+max-visible=5
+default-timeout=5000
+font=JetBrainsMono 12
+
